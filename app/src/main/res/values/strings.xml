@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UST Colleges</string>
+    <string-array name="Colleges">
+        <item>IICS</item>
+        <item>ENGG</item>
+        <item>ARKI</item>
+        <item>EDUC</item>
+        <item>MEDI</item>
+    </string-array>
+
+    <string-array name="Year">
+        <item>Est. 2014</item>
+        <item>Est. 1907</item>
+        <item>Est. 1965</item>
+        <item>Est. 1947</item>
+        <item>Est. 1871</item>
+    </string-array>
+</resources>
